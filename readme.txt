@@ -4,3 +4,4 @@ Insert a new line.
 LALALA
 Creating a new branch is quick.
 master & feature1
+tag test
